@@ -24,7 +24,7 @@ Ziel dieses Projekts ist es, die Leistungen der vier Nations League **Ligen, Nat
 
 ## Methodik:
 1. **Daten mit Power Query bereinigen, transformieren und für die Analyse vorbereiten**
-2. **Ein semantisches Datenmodell in Power BI erstellen und DAX Measures für die Seiten Overview, Leagues, Teams und Players entwickeln**
+2. **Ein semantisches Datenmodell in Power BI erstellen und DAX Measures für die Seiten Übersicht, Ligen, Mannschaften und Spieler entwickeln**
 3. **Einen interaktiven Power BI Bericht erstellen, um wichtige Kennzahlen, Entwicklungen und Erkenntnisse zu visualisieren**
 
 ## Power BI Kenntnisse:
